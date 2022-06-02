@@ -15,12 +15,12 @@ espnet.transform.cmvn
     :show-inheritance:
 
 
-.. _espnet.transform.add_deltas:
+.. _espnet.transform.spec_augment:
 
-espnet.transform.add_deltas
----------------------------
+espnet.transform.spec_augment
+-----------------------------
 
-.. automodule:: espnet.transform.add_deltas
+.. automodule:: espnet.transform.spec_augment
     :members:
     :undoc-members:
     :show-inheritance:
@@ -32,39 +32,6 @@ espnet.transform.wpe
 --------------------
 
 .. automodule:: espnet.transform.wpe
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-.. _espnet.transform.__init__:
-
-espnet.transform.__init__
--------------------------
-
-.. automodule:: espnet.transform.__init__
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-.. _espnet.transform.perturb:
-
-espnet.transform.perturb
-------------------------
-
-.. automodule:: espnet.transform.perturb
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-.. _espnet.transform.transform_interface:
-
-espnet.transform.transform_interface
-------------------------------------
-
-.. automodule:: espnet.transform.transform_interface
     :members:
     :undoc-members:
     :show-inheritance:
@@ -114,12 +81,45 @@ espnet.transform.transformation
     :show-inheritance:
 
 
-.. _espnet.transform.spec_augment:
+.. _espnet.transform.__init__:
 
-espnet.transform.spec_augment
------------------------------
+espnet.transform.__init__
+-------------------------
 
-.. automodule:: espnet.transform.spec_augment
+.. automodule:: espnet.transform.__init__
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+.. _espnet.transform.perturb:
+
+espnet.transform.perturb
+------------------------
+
+.. automodule:: espnet.transform.perturb
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+.. _espnet.transform.add_deltas:
+
+espnet.transform.add_deltas
+---------------------------
+
+.. automodule:: espnet.transform.add_deltas
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+.. _espnet.transform.transform_interface:
+
+espnet.transform.transform_interface
+------------------------------------
+
+.. automodule:: espnet.transform.transform_interface
     :members:
     :undoc-members:
     :show-inheritance:
